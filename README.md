@@ -13,4 +13,6 @@
 初心者(カスエンジニア)のlogを細かく書いていくと誰かの参考になるかなと期待して書いていきたいと思います。<br><br>
 **\~'24 9/15\~**  
 メンバーの情報をJavaのコードに直で配列として書くのではなく([参考](https://github.com/HelloRamen420/PerpetualCalendar/blob/main/src/Group2/Shuffle.java))、謎に上手く扱いやすいjsonで管理しようと試みるも、眠いので寝ることに。  
-配列から直で取ってきてたのでいろいろと変えることも多いっすね。頑張ります。
+配列から直で取ってきてたのでいろいろと変えることも多いっすね。頑張ります。  
+ちなみに[これ](https://github.com/HelloRamen420/PerpetualCalendar/blob/main/src/Group2/helloMem.json)は、[こちら](https://github.com/xxgentaroxx/HP_DB/blob/main/member.csv)を[これ](https://www.site24x7.com/ja/tools/csv-to-json.html)でやっただけの泥棒人間です。  
+先人に感謝。
